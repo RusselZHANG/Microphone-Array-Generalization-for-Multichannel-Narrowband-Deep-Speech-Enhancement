@@ -8,3 +8,10 @@ Our work addresses the problem of microphone array generalization for deep-learn
 
 ![figure 1](https://github.com/RusselZHANG/Microphone-Array-Generalization-for-Multichannel-Narrowband-Deep-Speech-Enhancement/blob/main/doc/fig.png)
 
+## Key Features
+* Simulated_RIR_Generator
+* CP-NBDF, CC-NBDF, PW-NBDF network
+* Train
+* Inference
+* Evaluation
+* 
