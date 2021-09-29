@@ -1,0 +1,13 @@
+torch==1.7.0
+tensorboard 
+scipy
+pandas
+argparse
+numpy
+pesq 
+pypesq 
+pystoi 
+tqdm 
+mir_eval
+tqdm
+matplotlib
