@@ -11,7 +11,7 @@ Our work addresses the problem of microphone array generalization for deep-learn
 ## Key Features
 * Simulated_RIR_Generator
 * Network
-  * CP-NBDF
+  * original NBDF (CP-NBDF)
   * CC-NBDF
   * PW-NBDF   
 * Train
