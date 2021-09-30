@@ -27,4 +27,15 @@ $ git clone https://github.com/atomicoo/Tacotron2-PyTorch.git
 ``` 
 $ pip install -r requirements.txt
 ```
+[RIR Generator](https://github.com/ehabets/RIR-Generator) [1], [coherent multichannel noise generator](https://github.com/ehabets/ANF-Generator)[2] and [wind noise simulator](https://github.com/ehabets/Wind-Generator) [4] is required.
+
+
+# Reference
+[1] E. A. Habets, “Room impulse response generator,” Technische Universiteit Eindhoven, Tech. Rep, vol. 2, no. 2.4, p. 1, 2006.  
+<br>
+[2] E. A. Habets, I. Cohen, and S. Gannot, “Generating nonstationary multisensor signals under a spatial coherence constraint,” The Journal of the Acoustical Society of America, vol. 124, no. 5, pp. 2911–2917, 2008.  
+<br>
+[3] X. Li and R. Horaud, “Narrow-band deep filtering for multichannel speech enhancement,” arXiv preprint arXiv:1911.10791, 2019.  
+<br>
+[4]  D. Mirabilii and E. A. Habets, “Simulating multi-channel wind noise based on the corcos model,” in 2018 16th International Workshop on Acoustic Signal Enhancement (IWAENC).IEEE,2018, pp. 560–564.
 
