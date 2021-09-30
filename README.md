@@ -27,7 +27,7 @@ $ git clone https://github.com/atomicoo/Tacotron2-PyTorch.git
 ``` 
 $ pip install -r requirements.txt
 ```
-[RIR Generator](https://github.com/ehabets/RIR-Generator) [1], [coherent multichannel noise generator](https://github.com/ehabets/ANF-Generator)[2] and [wind noise simulator](https://github.com/ehabets/Wind-Generator) [4] is required.
+[RIR Generator](https://github.com/ehabets/RIR-Generator) [1], [coherent multichannel noise generator](https://github.com/ehabets/ANF-Generator)[2] and [wind noise simulator](https://github.com/ehabets/Wind-Generator) [4] are also required.
 
 
 # Reference
