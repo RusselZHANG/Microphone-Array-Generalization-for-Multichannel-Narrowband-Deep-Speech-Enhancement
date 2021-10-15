@@ -71,7 +71,7 @@ if __name__ == "__main__":
     batch_size = args.batch_size
     
     
-    def count_parameters(model):
+    def count_parameters(network):
         return sum(p.numel() for p in network.parameters() if p.requires_grad)
    
     print("##################### Trainning  model ###########################")
